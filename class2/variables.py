@@ -3,7 +3,7 @@
     # print("Hello, Good evening...!", end=" ")   # End Statement
     # print("Good night")
 
-    # print("09", "11", "1995", sep="-")          # Seperate Statement
+    # print("09", "11", "1995", sep="...")          # Seperate Statement
 
 # Variables:
 
@@ -13,7 +13,7 @@
 
 # Dataypes
 
-a = None
+# a = None
 
-print(a)
-print(type(a))
+# print(a)
+# print(type(a))
