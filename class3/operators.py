@@ -81,8 +81,8 @@
 
 # Identity operators --> (is, is not)
 
-        # x = "apple"
-        # y = "apple"
+        # x = ["apple", "banana"]
+        # y = ["apple", "banana"]
         # z = x
 
         # print(x is y)
@@ -92,4 +92,4 @@
 
     # x = ["apple", "banana"]
 
-    # print("appl" not in x)
+    # print("apple" in x)
