@@ -9,8 +9,8 @@
 
     # EX:1
 
-        # for i in range(3, 8):
-        #     print(i)
+        # for data in range(5, 10):
+        #     print(data)
 
     # EX:2
 
